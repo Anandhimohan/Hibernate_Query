@@ -1,1 +1,1 @@
-# Hibernate_Query
+# Hibernate_Criteria_Query
